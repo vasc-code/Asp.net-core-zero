@@ -1,0 +1,11 @@
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET\pt1\Alura.ListaLeitura.App\bin\Release\netcoreapp2.0\Alura.ListaLeitura.App.deps.json
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET\pt1\Alura.ListaLeitura.App\bin\Release\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.json
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET\pt1\Alura.ListaLeitura.App\bin\Release\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.dev.json
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET\pt1\Alura.ListaLeitura.App\bin\Release\netcoreapp2.0\Alura.ListaLeitura.App.dll
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET\pt1\Alura.ListaLeitura.App\bin\Release\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET\pt1\Alura.ListaLeitura.App\obj\Release\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET\pt1\Alura.ListaLeitura.App\obj\Release\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfo.cs
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET\pt1\Alura.ListaLeitura.App\obj\Release\netcoreapp2.0\Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET\pt1\Alura.ListaLeitura.App\obj\Release\netcoreapp2.0\Alura.ListaLeitura.App.dll
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET\pt1\Alura.ListaLeitura.App\obj\Release\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+C:\Users\AS-Informatica\Documents\cursos\backend\Asp.NET\pt1\Alura.ListaLeitura.App\obj\Release\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
